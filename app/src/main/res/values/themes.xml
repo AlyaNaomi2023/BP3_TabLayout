@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BP3_TabLayout" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item> <!-- Ganti dengan warna biru yang Anda inginkan -->
+    </style>
+
+    <style name="Theme.BP3_TabLayout" parent="Base.Theme.BP3_TabLayout" />
+</resources>
